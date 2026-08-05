@@ -1,11 +1,11 @@
-# hi, it's sam :] 🍊
-### collection of present and future data/dev projects can be found here!
-i'm a 2nd year mechanical engineering student at university of the philippines - diliman. 🌻
+# Hi, it's Sam :] 🍊
+### Collection of present and future data/dev projects can be found here!
+I'm a second year Mechanical Engineering student at UP Diliman. 🌻
 
-## workshop 🛠️
-- this profile is still quite barebones, but you may find my website (WIP) [here](https://greywolffles.vercel.app)
-- more to come in the future :D
+## Workshop 🛠️
+- You may find my personal website (still a WIP!) [here](https://greywolffles.vercel.app).
+- Here's a [data science project](https://github.com/greywolffles/sustainable-energy-for-all-data) that explores the complex and paradoxical relationship of energy consumption, electricity access, and economic wealth.
 
-## find me 🔎
-- [linkedin!](https://www.linkedin.com/in/samantha-nicole-gianan/)
+## Find me! 🔎
+- [Linkedin](https://www.linkedin.com/in/samantha-nicole-gianan/)
 - email: [samnicole.gianan@gmail.com](mailto:snsgianan@gmail.com)
