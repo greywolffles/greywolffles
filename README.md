@@ -9,7 +9,7 @@ Outside of all this, you'll find me listening to horror podcasts, playing web ga
 - Here's a [data science project](https://github.com/greywolffles/sustainable-energy-for-all-data) that explores the complex and paradoxical relationship of energy consumption, electricity access, and economic wealth.
 
 ## Skills 🛠️
-- Data Science: PostgreSQL, R, Power BI
+- Data Science: PostgreSQL, R, Python, Power BI
 - Web Development: Astro, HTML, CSS, JavaScript
 
 ## Find me! 🔎
