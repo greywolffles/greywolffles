@@ -5,8 +5,9 @@ I do data science and machine learning projects alongside my degree's math and d
 Outside of all this, you'll find me listening to horror podcasts, playing web games, or eating Korean-style chicken along Katipunan. 👻
 
 ## Workshop ⚙️
-- You may find my personal website (still a WIP!) [here](https://greywolffles.vercel.app).
+- You may find my personal website [here](https://greywolffles.vercel.app).
 - Here's a [data science project](https://github.com/greywolffles/sustainable-energy-for-all-data) that explores the complex and paradoxical relationship of energy consumption, electricity access, and economic wealth.
+- I'm currently working on an [exploratory project](https://github.com/greywolffles/Credit-Card-Financial-Transactions-Data) on using decision tree algorithms for time-series vs. classification models!
 
 ## Skills 🛠️
 - Data Science: PostgreSQL, R, Python, Power BI
