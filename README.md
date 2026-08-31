@@ -7,10 +7,11 @@ Outside of all this, you'll find me listening to horror podcasts, playing web ga
 ## Workshop ⚙️
 - You may find my personal website [here](https://greywolffles.vercel.app).
 - Here's a [data science project](https://github.com/greywolffles/sustainable-energy-for-all-data) that explores the complex and paradoxical relationship of energy consumption, electricity access, and economic wealth.
+- I'm also leading the development of bioinformatics projects for the [UP Biomedical Engineering Circle](https://github.com/UP-Biomedical-Engineering-Circle); I'm currently developing a guide to data science and bioinformatics in R for beginners!
 - I'm currently working on an [exploratory project](https://github.com/greywolffles/Credit-Card-Financial-Transactions-Data) on using decision tree algorithms for time-series vs. classification models!
 
 ## Skills 🛠️
-- Data Science: PostgreSQL, R, Python, Power BI
+- Data Science: SQL, R, Python, Power BI, Excel
 - Web Development: Astro, HTML, CSS, JavaScript
 
 ## Find me! 🔎
