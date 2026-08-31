@@ -1,8 +1,8 @@
 # Hi, it's Sam :] 🍊
-### Collection of present and future data/dev projects can be found here!
+### My collection of data/dev projects can be found here!
 I'm a second year mechanical engineering student at UP Diliman. 🌻
-I do data science and machine learning projects alongside my degree's math and design, and they're all documented here. 📝
-Outside of all this, you'll find me listening to horror podcasts, playing web games, or eating Korean-style chicken along Katipunan. 👻
+I do data science and machine learning projects alongside my degree's math and physics coursework, and they're all documented here. 📝
+Outside of all this, you'll find me listening to horror podcasts, playing web games, or eating yangnyeom chicken along Katipunan. 👻
 
 ## Workshop ⚙️
 - You may find my personal website [here](https://greywolffles.vercel.app).
