@@ -18,5 +18,8 @@ Outside of all this, you'll find me listening to horror podcasts, playing web ga
 - [Linkedin](https://www.linkedin.com/in/samantha-nicole-gianan/)
 - Email: [samnicole.gianan@gmail.com](mailto:snsgianan@gmail.com)
 
-![](https://githubusercontent.com)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="" src="https://githubusercontent.com">
+</picture>
